@@ -15,7 +15,7 @@ Softwares/Applications used: Xaamp, Apache Tomcat, VSCode, Firefox.
 `Certificate Request`
 ![Certificate_Request](https://user-images.githubusercontent.com/89660121/143702810-2f8047bb-2811-40a1-8549-5367961a2710.PNG)
 
-`Approve Students From Admin Console`
+`Approve Students' Certificates From Admin Console`
 ![Approve_Table](https://user-images.githubusercontent.com/81910954/144183693-3e2c117e-e232-452e-9d07-c02c9cb89594.PNG)
 
 `Remove User From Admin Console`
